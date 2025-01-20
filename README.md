@@ -1,6 +1,6 @@
-<h1 align="center">Pertinentes</h1>
+<h1 align="center">Sixfy</h1>
 
-<p align="center">Beach volley lover</p>
+<p align="center">Javascript lover</p>
 
 <div style="text-align: center;">
     <img src="https://komarev.com/ghpvc/?username=pertinentes&abbreviated=true&color=orange&style=for-thé-badge&abbreviated=true" alt="profile views"/>
