@@ -8,8 +8,8 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pertinentes&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pertinentes&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=6sfy&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6sfy&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/>
 </div>
 
 ---
