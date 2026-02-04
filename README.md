@@ -2,9 +2,9 @@
 
 <p align="center">Javascript lover</p>
 
-<p align="center">
+<div style="text-align: center;">
     <img src="https://komarev.com/ghpvc/?username=pertinentes&abbreviated=true&color=orange&style=for-the-badge" alt="profile views"/>
-</p>
+</div>
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
